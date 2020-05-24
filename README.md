@@ -18,12 +18,14 @@
 
 ## How to use
 loads the dictionaries from a CSV
+```
 {
 	"chinese":"火车站",
 	"pinyin";"huǒchēzhàn",
 	"translation":["train station"],  # list()
 	"Sentences":[]                    # list()
 }
+```
 It picks one pinyin and three more random translations, showing on a menu.
 Then the inverse: one translation first, and you can choose one of four pinyin words.
 
