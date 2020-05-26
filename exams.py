@@ -26,7 +26,7 @@ def quiz(dict_array):
 				print("\t[" + str(x) + "] " + quiz_options[x])
 			quiz_answer = int(input("Choose an option:"))
 
-			if quiz_options[quiz_answer] == dict_array[i]["translation"]: print("[+] 溜溜溜!")
+			if quiz_options[quiz_answer] == dict_array[i]["translation"]: print("[+] 六六六!")
 			else: 
 				print("[-] Wrong answer! :_(")
 				print("    The right answer was \"" + dict_array[i]["translation"] + "\"\n\n")
