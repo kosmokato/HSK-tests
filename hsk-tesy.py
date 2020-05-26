@@ -174,4 +174,5 @@ for x in a:
 	})
 
 # TEST-0
-test(dict_array)  # uncomment for test porpouses
+#test(dict_array)  # uncomment for test porpouses
+quiz(dict_array)
