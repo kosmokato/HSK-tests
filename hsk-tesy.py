@@ -74,7 +74,7 @@ a = [
 	["月","yuè","month"],
 	["日","rì","day"],
 	["星期","xīngqī","week"],
-	["电","diàn","electricity"]
+	["电","diàn","electricity"],
 	["点","diǎn","dot, spot"],
 	["分钟","fēnzhōng","minute"],
 	["现在","xiànzài","now"],
