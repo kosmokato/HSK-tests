@@ -1,6 +1,7 @@
-# HSK-tests.py
- HSK-1 test I made in python for studying and 4fun, gamificating the experience of learning a complex foreign language.
+# HSK-tests
+ HSK-1 test quiz generator I've made in python for studying and 4fun, gamificating the experience of learning a complex foreign language.
 ![Example](https://pbs.twimg.com/media/EZA1HMxWkAAgCoH?format=png&name=900x900)
+
 ## Content:
 - Personal Pronoun
 - Demonstrative Pronoun
