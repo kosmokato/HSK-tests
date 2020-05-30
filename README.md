@@ -42,8 +42,8 @@ Examples of use
 - [ ] Bold, underline, italic... let's add some salt!
 - [ ] Colors!
 - [ ] User profiles: save your progress! track your skills!
-- [ ] Spanish support: ¡Sin excusas!
-- [ ] Pусский support: никаких оправданий!
+- [x] Spanish support: ¡Sin excusas!
+- [x] Pусский support: никаких оправданий!
 - [ ] More levels! HSK-[1,6]
 - [ ] Vocabulary by .CSV
 - [ ] Mini-quizs: numbers, adjetives, pronouns...
