@@ -26,6 +26,5 @@ for line in csv:
 		#"tag":""
 	})
 
-# TEST-0
 #test(dict_array)  # uncomment for test porpouses
 quiz(dict_array, language)
