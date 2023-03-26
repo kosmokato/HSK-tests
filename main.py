@@ -1,13 +1,13 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-from test0 import test
+#from test0 import test
 from exams import quiz
 import sys
 
 
 # Let's load the csv with the data
-csv = open('pinyin.csv', 'r').read().split("\n")
+csv = open('pinyin.csv', 'r', encoding='utf-8').read().split("\n")
 
 language = 2  # default: english
 if len(sys.argv) > 1:  # some parameters introduced!
